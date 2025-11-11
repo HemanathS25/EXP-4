@@ -43,6 +43,15 @@ CIRCUIT DIAGRAMS
 ![WhatsApp Image 2025-11-11 at 12 05 04_9bd7ceee](https://github.com/user-attachments/assets/79aea9c9-c57c-4643-a838-1013b052b6c3)
 
 
+<img width="777" height="638" alt="Screenshot 2025-11-11 131258" src="https://github.com/user-attachments/assets/1f95d50d-04f2-44a0-972e-20d2caddc729" />
+
+
+<img width="812" height="606" alt="Screenshot 2025-11-11 131415" src="https://github.com/user-attachments/assets/2074a0d6-7a62-4ba3-97e6-33f4cf941e3b" />
+
+
+<img width="804" height="806" alt="Screenshot 2025-11-11 131335" src="https://github.com/user-attachments/assets/66b6eede-84bd-48d0-a547-2e4baa59434b" />
+
+
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
